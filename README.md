@@ -8,7 +8,9 @@ Titanic notebook presents
 * Feature Engeneering
 * Prediction. 
 
-The best score (0.80383, table place: 957) was reached by applying Logistic Regression.
+
+The best score (0.80383, table place: 746) was reached by applying Logistic Regression.
+
 
 ***********************
 Have fun with the data!
